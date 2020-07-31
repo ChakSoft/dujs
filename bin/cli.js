@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const command = require('commander')
 const ora = require('ora')
 const table = require('table')
