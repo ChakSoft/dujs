@@ -19,7 +19,7 @@
     "email": "mchacaton@chaksoft.eu"
   },
   "engines": {
-    "node": "14"
+    "node": ">=14"
   },
   "devDependencies": {
     "babel-eslint": "^10.1.0",
