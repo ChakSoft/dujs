@@ -1,6 +1,6 @@
 {
   "name": "dujs",
-  "version": "1.0.3",
+  "version": "2.0.0",
   "description": "JS porting for DU command",
   "main": "main.js",
   "type": "module",
