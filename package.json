@@ -3,6 +3,7 @@
   "version": "1.0.3",
   "description": "JS porting for DU command",
   "main": "main.js",
+  "type": "module",
   "license": "GPL-3.0",
   "bin": "bin/cli.js",
   "dependencies": {

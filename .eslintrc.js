@@ -55,6 +55,7 @@ module.exports = {
     'no-case-declarations' : 'off',
     'arrow-body-style' : 'off',
     'no-bitwise' : 'off',
+    'import/extensions' : 'off',
   },
   parserOptions : { parser : 'babel-eslint' },
 }
